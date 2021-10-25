@@ -1,0 +1,24 @@
+{
+  "name": "api-banco-digital",
+  "version": "1.0.0",
+  "description": "Projeto simples de uma API RESTful para um Banco Digital, os dados são persistidos em memória.\r As funcionalidades são:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafaeldco/api-banco-digital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rafaeldco/api-banco-digital/issues"
+  },
+  "homepage": "https://github.com/Rafaeldco/api-banco-digital#readme",
+  "dependencies": {
+    "date-fns": "^2.25.0",
+    "express": "^4.17.1"
+  }
+}
